@@ -1,0 +1,14 @@
+E:\Study\Code with VisualStudio\EX_LT\EX_LT\bin\Debug\net8.0\EX_LT.exe
+E:\Study\Code with VisualStudio\EX_LT\EX_LT\bin\Debug\net8.0\EX_LT.deps.json
+E:\Study\Code with VisualStudio\EX_LT\EX_LT\bin\Debug\net8.0\EX_LT.runtimeconfig.json
+E:\Study\Code with VisualStudio\EX_LT\EX_LT\bin\Debug\net8.0\EX_LT.dll
+E:\Study\Code with VisualStudio\EX_LT\EX_LT\bin\Debug\net8.0\EX_LT.pdb
+E:\Study\Code with VisualStudio\EX_LT\EX_LT\obj\Debug\net8.0\EX_LT.GeneratedMSBuildEditorConfig.editorconfig
+E:\Study\Code with VisualStudio\EX_LT\EX_LT\obj\Debug\net8.0\EX_LT.AssemblyInfoInputs.cache
+E:\Study\Code with VisualStudio\EX_LT\EX_LT\obj\Debug\net8.0\EX_LT.AssemblyInfo.cs
+E:\Study\Code with VisualStudio\EX_LT\EX_LT\obj\Debug\net8.0\EX_LT.csproj.CoreCompileInputs.cache
+E:\Study\Code with VisualStudio\EX_LT\EX_LT\obj\Debug\net8.0\EX_LT.dll
+E:\Study\Code with VisualStudio\EX_LT\EX_LT\obj\Debug\net8.0\refint\EX_LT.dll
+E:\Study\Code with VisualStudio\EX_LT\EX_LT\obj\Debug\net8.0\EX_LT.pdb
+E:\Study\Code with VisualStudio\EX_LT\EX_LT\obj\Debug\net8.0\EX_LT.genruntimeconfig.cache
+E:\Study\Code with VisualStudio\EX_LT\EX_LT\obj\Debug\net8.0\ref\EX_LT.dll
